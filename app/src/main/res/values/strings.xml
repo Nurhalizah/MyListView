@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+<string-array name="data_name">
+     <item>Bumi</item>
+    <item>Bulan</item>
+    <item>Matahari</item>
+    <item>Bintang</item>
+     <item>Ceros dan Batozar</item>
+    <item>Komet</item>
+    <item>Komet Minor</item>
+    <item>Selena</item>
+    <item>Nebula</item>
+    <item>Lumpu</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+    <item>Bagi kamu pecinta novel karya Tere Liye, wajib membaca ketujuh serial novel Bumi ini. Mulai diterbitkan pada tahun 2014 dengan serial pertamanya yang berjudul Bumi.
+        Serial ini menceritakan petualangan tiga anak muda yang memiliki kekuatan menakjubkan. Raib yang dapat menghilang. Seli yang dapat mengeluarkan petir dari tangannya. Dan Ali si jenius.
+    Bumi adalah novel pertama dari serial ini. Menceritakan awal persahabatan ketiga tokoh utama. Diawali oleh kejadian robohnya tiang listrik di belakang sekolah, hingga pertemuan mereka dengan sosok tak terduga yang
+        membawanya ke klan bulan--dunia paralel yang kehidupannya bersisian bumi. Petualangan menegangkan yang membawa kisah baru di kehidupan mereka.</item>
+    <item>Di buku kedua ini mereka melanjutkan petualangannya di dunia paralel. Kali ini klan matahari yang dikunjungi. Mendengar kabar akan hancurnya dunia paralel, mereka melakukan perjalanan politik untuk menyatukan kekuatan klan bulan dan klan matahari. Bersama teman barunya yang berasal dari klan bulan Raib, Ali, dan Seli sangat antusias menyelesaikan urusan diplomatiknya. Akankah mereka berhasil melakukannya? Kisah selengkapnya bisa ditemukan di novel Bulan.</item>
+    <item>Diawali dengan rasa penasaran Ali si jenius akan dunia paralel. Ia pun mempelajari segala hal yang berhubungan dengan itu. Hingga ia berhasil menemukan teori tentang klan bintang. Dengan ditemani oleh teman baru berwujud pesawat kapsul, perjalanan rahasia mereka yang tak kalah seru dari sebelumnya menjadi lebih menarik.</item>
+    <item>Petualangan Raib, Seli, dan Ali masih berlanjut di klan bintang. Kini mereka kembali lagi dengan misi menyelamatkan kehidupan di klan bumi. Pasak bumi yang ada di klan bulan harus ditemukan demi mencegah kehancuran bumi.
+        Ditemani oleh teman-teman dari 3 klan, mereka melewati tantangan yang sangat menegangkan dan menakutkan. Melintasi hujan badai yang terjadi setiap jam, ular raksasa yang sulit dikalahkan, dan banyak rintangan yang harus dihadapi.</item>
+    <item>Buku ini bisa dikatakan buku ke 4,5 di serial Bumi. Dibagi menjadi 2 bab yang masing-masing memiliki kisah unik sendiri. Masih diperankan oleh tiga remaja yang memiliki kekuatan menakjubkan, buku ini menceritakan kisah mereka menaklukkan dua makhluk misterius, yakni Ceros dan Batozar.
+        Ceros si dua makhluk raksasa yang kehilangan bagian hal dari mereka, membuatnya tak dapat mengendalikan diri. Dan Batozar kriminal dari klan bulan yang kabur dan memiliki kemungkinan bersembunyi di bumi.</item>
+     <item>Pertualangan tidak berhenti di klan bintang. Kini mereka harus melakukan petualangan di pulau dengan banyak tumbuhan aneh. pulau dengan nama berdasarkan nama hari. Pulau Hari Senin, Hari Selasa, hingga Hari Minggu. Bertemu dengan orang berwajah sama tetapi berbeda nama di setiap pulau.</item>
+    <item>Buku terbaru dari serial Bumi ini menceritakan kelanjutan pertempuran melawan si Tanpa Mahkota –tokoh antagonis serial ini-. Pertempuran yang mengeluarkan banyak pengorbanan dan ambisi.
+        Akankah Raib, Seli, dan Ali dapat menyelamatkan kehidupan di dunia paralel? Atau mereka akan melihat kehancuran dunia tanpa bisa mencegahnya?
+    </item>
+    <item>Urutan kedelapan dari serial Bumi ini berjudul Selena. Sesuai judulnya pada buku ini tidak menceritakan tentang petualangan Ali, Raib dan Seli melainkan mengisahkan tentang Miss Selana yaitu merupakan guru Metematika mereka sekaligus adalah petarung hebat dari Klan Bulan.
+        Selana menceritakan tentang kehidupan Miss Selena dalam menjalani masa remaja hingga berhasil masuk di ABTT dan membawanya pertemu Mata dan Tazk.</item>
+    <item>Nebula merupakan novel seri dunia paralel yang diterbitkan berbarangan dengan Selena. Novel ini memuat kehidupan Selena selama di ABTT dan berkelana ke Nebula untuk mencari cawan keabadiaan atas perintah Tamus yang jahat.
+        Pada Novel ini juga dikuak misteri tentang siapa orang Tua Raib.</item>
+        <item>Novel terbaru dari serial dunia paralel atau serial bumi karya Tere Liye ini adalah Lumpu yang sebenarnya belum terbit (saat artikel ini ditulis) tapi versi unedited yaitu naskah original sebelum diedit dan direvisi oleh redaksi Penerbit sudah tersedia di Play Store.
+            Lumpu menceritakan tentang sosok dengan nama itu. Ia merupakan orang yang dendam dengan para pemilik kekuatan dan menganggap mereka adalah pencuri. Kamu dapat membaca ulusan lengkap tentang Lumpu pada blog ini.</item>
+     </string-array>
+
+    <array name="data_photo">
+    <item>@drawable/a</item>
+    <item>@drawable/b</item>
+    <item>@drawable/c</item>
+    <item>@drawable/d</item>
+    <item>@drawable/e</item>
+    <item>@drawable/f</item>
+    <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+
+    </array>
+</resources>
